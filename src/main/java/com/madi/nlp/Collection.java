@@ -1,4 +1,4 @@
-package com.madi.norwegianlearningplatform;
+package com.madi.nlp;
 
 import java.util.HashSet;
 import java.util.Set;

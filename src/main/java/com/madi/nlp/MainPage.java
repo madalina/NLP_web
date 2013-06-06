@@ -1,4 +1,4 @@
-package com.madi.norwegianlearningplatform;
+package com.madi.nlp;
 
 import org.apache.wicket.markup.html.WebPage;
 import org.apache.wicket.markup.html.basic.Label;
