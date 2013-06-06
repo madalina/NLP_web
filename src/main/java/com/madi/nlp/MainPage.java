@@ -9,7 +9,7 @@ public class MainPage extends WebPage {
     
     public MainPage(final PageParameters parameters) {
  
-        add(new Label("message", "Hello World, Wicket"));
+        add(new Label("message", "Hello World after Git commit, Wicket"));
  
     }
 }
