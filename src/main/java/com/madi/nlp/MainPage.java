@@ -9,7 +9,7 @@ public class MainPage extends WebPage {
     
     public MainPage(final PageParameters parameters) {
  
-        add(new Label("message", "Wicket, maven, jenkins, java, cloudbees account tied together - checked!"));
+        add(new Label("message", "Wicket, maven, jenkins, java, cloudbees account tied together - checked!!"));
  
     }
 }
