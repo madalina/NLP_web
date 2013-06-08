@@ -1,4 +1,4 @@
-package com.madi.nlp;
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;
